@@ -1,0 +1,27 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@fheutz/book-search": "^1.0.7",
+    "date-fns": "^2.11.1",
+    "gray-matter": "^4.0.2",
+    "i": "^0.3.7",
+    "next": "^11.0.0",
+    "npm": "^7.24.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "remark": "^14.0.1",
+    "remark-html": "^12.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^16.9.6",
+    "@types/react": "^17.0.24",
+    "typescript": "^4.4.3"
+  }
+}
