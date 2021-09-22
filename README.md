@@ -20,4 +20,4 @@ npm run dev
 
 # Limitations
 
-This Example Implementation takes the First ISBN it finds for a booktitle and looks for German € prices. For this most of the time you should get the same shop with the best price. Try Looking for some rare books like an old Lord Of the Rings, this should bring up some other search results 👍
+This Example Implementation takes the First ISBN it finds for a booktitle and looks for German € prices. For this, most of the time you should get the same shop with the best price. Try Looking for some rare books like an old Lord Of the Rings, this should bring up some other search results 👍
